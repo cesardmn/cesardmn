@@ -16,9 +16,9 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesardmn&layout=compact&theme=dracula)](https://github.com/cesardmn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesardmn&layout=compact&theme=dracula)](https://github.com/cesardmn/cesardmn)
 
 ### Projects
-[![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=cesardmn&repo=Tik-Tok_clone&theme=dracula)](https://github.com/cesardmn/github-readme-stats)
+[![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=cesardmn&repo=Tik-Tok_clone&theme=dracula)](https://github.com/cesardmn/Tik-Tok_clone)
 
-[![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=cesardmn&repo=ping_pong&theme=dracula)](https://github.com/cesardmn/github-readme-stats) [![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=cesardmn&repo=password_generator&theme=dracula)](https://github.com/cesardmn/github-readme-stats)
+[![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=cesardmn&repo=ping_pong&theme=dracula)](https://github.com/cesardmn/ping_pong) [![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=cesardmn&repo=password_generator&theme=dracula)](https://github.com/cesardmn/password_generator)
