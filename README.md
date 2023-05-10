@@ -1,10 +1,18 @@
 ## 👨🏻‍💻 Hi! I'm Cesar Dimi
 
+<p>I am a front-end developer holding a degree in Systems Analysis and Development. I have worked on several projects utilizing various technologies such as JavaScript, React, NextJs, Python, and Django.</p>
+<p>I have experience in developing RPA automations for information extraction and inclusion through the browser. Additionally, I have created scripts using Google App Scripts to manipulate files and folders in Google Drive.</p>
+<p><em><b>Let's work and grow together?</b></em></p> 
+<p><em>Contact me:</em></p>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesardmn/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521982399315)
 
-![Cesar Dimi GitHub stats](https://github-readme-stats.vercel.app/api?username=cesardmn&show_icons=true)
-
+<!-- ![Cesar Dimi GitHub stats](https://github-readme-stats.vercel.app/api?username=cesardmn&show_icons=true)
+ -->
+ 
+ <br>
+ 
 ## Technologies I use in my day
 
 <div style="display: inline_block">
@@ -17,6 +25,8 @@
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesardmn&layout=compact)](https://github.com/cesardmn/cesardmn)
+
+ <br>
 
 ### Projects
 [![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=cesardmn&repo=calculator_app)](https://github.com/cesardmn/calculator_app)
