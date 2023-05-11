@@ -27,7 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesardmn&layout=compact)](https://github.com/cesardmn/cesardmn)
 
  <br>
-
+<!-- 
 ### Projects
 [![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=cesardmn&repo=calculator_app)](https://github.com/cesardmn/calculator_app)
 
@@ -35,6 +35,6 @@
 
 [![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=cesardmn&repo=ping_pong)](https://github.com/cesardmn/ping_pong) 
 
-[![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=cesardmn&repo=bin_to_dec)](https://github.com/cesardmn/bin_to_dec)
+[![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=cesardmn&repo=bin_to_dec)](https://github.com/cesardmn/bin_to_dec) -->
 
 
